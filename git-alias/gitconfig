@@ -1,0 +1,5 @@
+[user]
+	name = Gitly MacMini
+	email = gitly.dev@gmail.com
+[core]
+	editor = code --wait
