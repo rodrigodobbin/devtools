@@ -1,0 +1,2 @@
+create_pr_ui: '!gh pr create --reviewer=douglasgomes98,brunoaalexandree,dashdanilo,plfalmeida,agentguru/team --title="$1" --base="$2"'
+create_pr_skyds: '!gh pr create --reviewer=douglasgomes98,brunoaalexandree,dashdanilo,plfalmeida --title="$1" --base="$2"'
